@@ -1,0 +1,7 @@
+DB_PATH : "/XXXX/GimmeTube/data/vector_db_txts/chroma_db"
+
+COLLECTION_NAME : "subtitles"
+
+VIDEO_PATH : "/XXXX/GimmeTube/data/video_inputs/ind_vs_pak.mp4"
+
+
