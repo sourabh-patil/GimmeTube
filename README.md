@@ -1,2 +1,2 @@
 # GimmeTube
-Get the highlight of the video based on the given query 
+Get the highlights from the video based on the given query
