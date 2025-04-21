@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+data/video_inputs/ind_vs_pak.mp4 filter=lfs diff=lfs merge=lfs -text
